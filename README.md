@@ -1,2 +1,4 @@
 # Basic_Banking_System
-Front-end : HTML, CSS, Bootstrap &amp; Javascript  Back-end : PHP  Database : MySQL  
+Front-end : HTML, CSS, Bootstrap and Javascript  
+Back-end : PHP  
+Database : MySQL  
